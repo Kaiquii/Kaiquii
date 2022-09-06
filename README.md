@@ -17,7 +17,5 @@
     <img aling="center" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
     <img aling="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
-
+<br/>
 Apaixonado por tecnologia, interessado em ingressar no mercado e aprender cada vez mais sobre tecnologia!
-
-
