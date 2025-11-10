@@ -1,7 +1,6 @@
 <h1 align="center">👋 Olá! Eu sou Kaiqui Lucas</h1>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kaiquii&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kaiquii&theme=tokyonight)
+![Metrics](https://github.com/Kaiquii/Kaiquii/blob/main/github-metrics.svg)
 
 <p align="center">
   💻 Desenvolvedor Front-End | 🚀 Apaixonado por tecnologia e inovação
