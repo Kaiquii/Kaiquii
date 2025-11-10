@@ -1,7 +1,15 @@
 <h1 align="center">👋 Olá! Eu sou Kaiqui Lucas</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiquii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+### 🚀 Linguagens mais utilizadas & Linguagens com mais commits
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiquii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&locale=pt-br" />
+</a>
+<a href="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kaiquii&theme=tokyonight">
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kaiquii&theme=tokyonight" />
+</a>
+</div>
 
 <p align="center">
   💻 Desenvolvedor Front-End | 🚀 Apaixonado por tecnologia e inovação
