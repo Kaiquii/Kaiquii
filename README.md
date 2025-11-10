@@ -1,23 +1,73 @@
-### Olá! Eu sou o Kaiqui Lucas ✌️
-
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaiqui_luucas/)
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiqui-lucas-95672221b)
-[![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511933673435)
+<h1 align="center">👋 Olá! Eu sou Kaiqui Lucas</h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiquii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Tecnologias que uso no meu dia
+<p align="center">
+  💻 Desenvolvedor Front-End | 🚀 Apaixonado por tecnologia e inovação
+</p>
 
-<div style=display: incline_block><br/>
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img aling="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img aling="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-    <img aling="center" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-    <img aling="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div>
-<br/>
-Apaixonado por tecnologia, interessado em ingressar no mercado e aprender cada vez mais sobre tecnologia!
+---
 
+## 🧠 Sobre mim
+
+Desenvolvedor Front-End com experiência na criação de soluções de ponta a ponta. Com vivência no desenvolvimento front-end com **Next.js, React.js, TypeScript** e **TailwindCSS**, tenho experiência prática no desenvolvimento de interfaces responsivas, consumo de APIs e otimização de performance.  
+
+Possuo também uma base sólida em desenvolvimento **back-end (Java, C#, Python)**, **bancos de dados (MySQL, phpMyAdmin)**, metodologias ágeis e ferramentas como **Git/GitHub** e **Power BI**.  
+
+Com perfil analítico e comunicativo, sou comprometido com a entrega de **código limpo e escalável**, sempre buscando a **excelência técnica** e a **melhor experiência para o usuário final**.
+
+---
+
+## ⚙️ Tecnologias e Ferramentas
+
+### 🚀 Front-End
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css,tailwind" />
+</p>
+
+### 🧩 Back-End
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cs,python,php" />
+</p>
+
+### 🗄️ Bancos de Dados
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🧰 Ferramentas e Metodologias
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,powerbi" />
+</p>
+
+---
+
+## 💬 Minhas competências
+🔹 Front-End: Next.js, React.js, TypeScript, JavaScript, HTML/CSS3, TailwindCSS.  
+🔹 Back-End: Java, C#, Python, PHP, APIs REST/GraphQL.  
+🔹 Bancos de Dados: MySQL, phpMyAdmin.  
+🔹 Metodologias e Ferramentas: Scrum, Kanban, Git/GitHub, Power BI.  
+🔹 Competências: Resolução de Problemas, Otimização de Performance, Boas Práticas de UI/UX, Desenvolvimento de Soluções Escaláveis, Proatividade.  
+
+---
+
+## 🌐 Contatos
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/kaiqui-lucas/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://portfolio-kaiqui-dev.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/5511933673435" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐ **"Sempre buscando aprender, evoluir e construir experiências digitais incríveis."**
 
 
 
