@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou Kaiqui Lucas</h1>
 
 <div align="center" style="margin: 30px 0;">
-  ### 🚀 Linguagens mais utilizadas & Linguagens com mais commits
+  ## 🚀 Linguagens mais utilizadas & Linguagens com mais commits
   <br><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiquii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&locale=pt-br" />
