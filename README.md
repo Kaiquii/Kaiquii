@@ -1,6 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou Kaiqui Lucas</h1>
 
-![Metrics](https://github.com/Kaiquii/Kaiquii/blob/main/github-metrics.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiquii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p align="center">
   💻 Desenvolvedor Front-End | 🚀 Apaixonado por tecnologia e inovação
