@@ -33,8 +33,10 @@ Com perfil analítico e comunicativo, sou comprometido com a entrega de **códig
 ## ⚙️ Tecnologias e Ferramentas
 
 ### 🚀 Front-End & Mobile
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,react,typescript,javascript,html,css,tailwind" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="43" style="vertical-align: top;" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,tailwind" />
 </p>
 
 ### 🧩 Back-End
