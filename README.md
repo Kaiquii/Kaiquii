@@ -32,9 +32,9 @@ Com perfil analítico e comunicativo, sou comprometido com a entrega de **códig
 
 ## ⚙️ Tecnologias e Ferramentas
 
-### 🚀 Front-End
+### 🚀 Front-End & Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,reactnative,typescript,javascript,html,css,tailwind" />
 </p>
 
 ### 🧩 Back-End
@@ -55,7 +55,7 @@ Com perfil analítico e comunicativo, sou comprometido com a entrega de **códig
 ---
 
 ## 💬 Minhas competências
-🔹 Front-End: Next.js, React.js, TypeScript, JavaScript, HTML/CSS3, TailwindCSS.  
+🔹 Front-End / Mobile: Next.js, React.js, React Native, TypeScript, JavaScript, HTML/CSS3, TailwindCSS.  
 🔹 Back-End: Node.js, Java, C#, Python, PHP, APIs REST/GraphQL.  
 🔹 Bancos de Dados: MySQL, phpMyAdmin.  
 🔹 Metodologias e Ferramentas: Scrum, Kanban, Git/GitHub, Docker, Power BI.  
