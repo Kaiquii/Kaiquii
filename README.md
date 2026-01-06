@@ -24,7 +24,7 @@
 
 Desenvolvedor Front-End com experiência na criação de soluções de ponta a ponta. Com vivência no desenvolvimento front-end com **Next.js, React.js, TypeScript** e **TailwindCSS**, tenho experiência prática no desenvolvimento de interfaces responsivas, consumo de APIs e otimização de performance.  
 
-Possuo também uma base sólida em desenvolvimento **back-end (Java, C#, Python)**, **bancos de dados (MySQL, phpMyAdmin)**, metodologias ágeis e ferramentas como **Git/GitHub** e **Power BI**.  
+Possuo também uma base sólida em desenvolvimento **back-end (Node.js, Java, C#, Python)**, **bancos de dados (MySQL, phpMyAdmin)**, metodologias ágeis e ferramentas como **Git/GitHub** e **Power BI**.  
 
 Com perfil analítico e comunicativo, sou comprometido com a entrega de **código limpo e escalável**, sempre buscando a **excelência técnica** e a **melhor experiência para o usuário final**.
 
@@ -39,7 +39,7 @@ Com perfil analítico e comunicativo, sou comprometido com a entrega de **códig
 
 ### 🧩 Back-End
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cs,python,php" />
+  <img src="https://skillicons.dev/icons?i=nodejs,java,cs,python,php" />
 </p>
 
 ### 🗄️ Bancos de Dados
@@ -56,7 +56,7 @@ Com perfil analítico e comunicativo, sou comprometido com a entrega de **códig
 
 ## 💬 Minhas competências
 🔹 Front-End: Next.js, React.js, TypeScript, JavaScript, HTML/CSS3, TailwindCSS.  
-🔹 Back-End: Java, C#, Python, PHP, APIs REST/GraphQL.  
+🔹 Back-End: Node.js, Java, C#, Python, PHP, APIs REST/GraphQL.  
 🔹 Bancos de Dados: MySQL, phpMyAdmin.  
 🔹 Metodologias e Ferramentas: Scrum, Kanban, Git/GitHub, Power BI.  
 🔹 Competências: Resolução de Problemas, Otimização de Performance, Boas Práticas de UI/UX, Desenvolvimento de Soluções Escaláveis, Proatividade.  
@@ -80,12 +80,3 @@ Com perfil analítico e comunicativo, sou comprometido com a entrega de **códig
 ---
 
 ⭐ **"Sempre buscando aprender, evoluir e construir experiências digitais incríveis."**
-
-
-
-
-
-
-
-
-
