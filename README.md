@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  💻 Desenvolvedor Front-End | 🚀 Apaixonado por tecnologia e inovação
+  💻 Desenvolvedor Full-Stack | 🚀 Apaixonado por tecnologia e inovação
 </p>
 </div>
 
@@ -22,7 +22,7 @@
 
 ## 🧠 Sobre mim
 
-Desenvolvedor Front-End com experiência na criação de soluções de ponta a ponta. Com vivência no desenvolvimento front-end com **Next.js, React.js, TypeScript** e **TailwindCSS**, tenho experiência prática no desenvolvimento de interfaces responsivas, consumo de APIs e otimização de performance.  
+Desenvolvedor Full-Stack com experiência na criação de soluções de ponta a ponta. Com vivência no desenvolvimento front-end com **Next.js, React.js, TypeScript** e **TailwindCSS**, tenho experiência prática no desenvolvimento de interfaces responsivas, consumo de APIs e otimização de performance.  
 
 Possuo também uma base sólida em desenvolvimento **back-end (Node.js, Java, Kotlin, C#, Python)**, **bancos de dados (MySQL, phpMyAdmin)**, metodologias ágeis e ferramentas como **Git/GitHub** e **Power BI**.  
 
