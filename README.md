@@ -49,7 +49,7 @@ Com perfil analítico e comunicativo, sou comprometido com a entrega de **códig
 
 ### 🧰 Ferramentas e Metodologias
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,sourcetree,vscode,docker,postman,powerbi" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitea,vscode,docker,postman,powerbi" />
 </p>
 
 ---
