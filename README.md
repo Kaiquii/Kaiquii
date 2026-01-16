@@ -56,7 +56,7 @@ Com perfil analítico e comunicativo, sou comprometido com a entrega de **códig
 
 ## 💬 Minhas competências
 🔹 Front-End / Mobile: Next.js, React.js, React Native, TypeScript, JavaScript, HTML/CSS3, TailwindCSS.  
-🔹 Back-End: Node.js, Java, C#, Python, APIs REST/GraphQL.  
+🔹 Back-End: Node.js, Java, Kotlin, C#, Python, APIs REST/GraphQL.  
 🔹 Bancos de Dados: MySQL, phpMyAdmin.  
 🔹 Metodologias e Ferramentas: Scrum, Kanban, Git/GitHub, Docker, Power BI.  
 🔹 Competências: Resolução de Problemas, Otimização de Performance, Boas Práticas de UI/UX, Desenvolvimento de Soluções Escaláveis, Proatividade.  
