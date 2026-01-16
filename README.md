@@ -24,7 +24,7 @@
 
 Desenvolvedor Front-End com experiência na criação de soluções de ponta a ponta. Com vivência no desenvolvimento front-end com **Next.js, React.js, TypeScript** e **TailwindCSS**, tenho experiência prática no desenvolvimento de interfaces responsivas, consumo de APIs e otimização de performance.  
 
-Possuo também uma base sólida em desenvolvimento **back-end (Node.js, Java, C#, Python)**, **bancos de dados (MySQL, phpMyAdmin)**, metodologias ágeis e ferramentas como **Git/GitHub** e **Power BI**.  
+Possuo também uma base sólida em desenvolvimento **back-end (Node.js, Java, Kotlin, C#, Python)**, **bancos de dados (MySQL, phpMyAdmin)**, metodologias ágeis e ferramentas como **Git/GitHub** e **Power BI**.  
 
 Com perfil analítico e comunicativo, sou comprometido com a entrega de **código limpo e escalável**, sempre buscando a **excelência técnica** e a **melhor experiência para o usuário final**.
 
@@ -39,7 +39,7 @@ Com perfil analítico e comunicativo, sou comprometido com a entrega de **códig
 
 ### 🧩 Back-End
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,java,cs,python" />
+  <img src="https://skillicons.dev/icons?i=nodejs,java,kotlin,cs,python" />
 </p>
 
 ### 🗄️ Bancos de Dados
