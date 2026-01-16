@@ -34,7 +34,7 @@ Com perfil analítico e comunicativo, sou comprometido com a entrega de **códig
 
 ### 🚀 Front-End
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" />
 </p>
 
 ### 🧩 Back-End
@@ -49,7 +49,7 @@ Com perfil analítico e comunicativo, sou comprometido com a entrega de **códig
 
 ### 🧰 Ferramentas e Metodologias
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,powerbi" />
+  <img src="https://skillicons.dev/icons?i=git,github,sourcetree,vscode,docker,postman,powerbi" />
 </p>
 
 ---
