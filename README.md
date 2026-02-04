@@ -7,10 +7,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kaiquii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&locale=pt-br" />
   </a>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kaiquii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&locale=pt-br" />
-  </a>
+  
   <br><br>
 </div>
 
