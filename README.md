@@ -1,15 +1,15 @@
 <h1 align="center">👋 Olá! Eu sou Kaiqui Lucas</h1>
 
 <div align="center" style="margin: 30px 0;">
-  🚀 Linguagens mais utilizadas & Linguagens com mais commits
+  🚀 Linguagens mais utilizadas & Estatísticas de Commits
   <br><br>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kaiquii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&locale=pt-br" />
   </a>
 
-  <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kaiquii&theme=tokyonight">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kaiquii&theme=tokyonight" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kaiquii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&locale=pt-br" />
   </a>
   <br><br>
 </div>
