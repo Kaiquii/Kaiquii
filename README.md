@@ -1,31 +1,57 @@
-<h1 align="center">👋 Olá! Eu sou Kaiqui Lucas</h1>
+<div align="center">
 
-<div align="center" style="margin: 30px 0;">
-  🚀 Linguagens mais utilizadas & Estatísticas de Commits
-  <br><br>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kaiquii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&locale=pt-br" />
+<!-- Animated header banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Kaiqui%20Lucas&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Apaixonado%20por%20tecnologia%20e%20inovação&descAlignY=60&descColor=8b949e&descSize=18"/>
+
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Full-Stack+%F0%9F%92%BB;Next.js+%7C+React+%7C+TypeScript+%7C+Node.js;Sempre+aprendendo%2C+sempre+evoluindo+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Profile views + social badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Kaiquii&style=for-the-badge&color=58a6ff&labelColor=0d1117" alt="Profile views"/>
+  <a href="https://www.linkedin.com/in/kaiqui-lucas/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
-  <br><br>
-</div>
-
-
-<p align="center">
-  💻 Desenvolvedor Full-Stack | 🚀 Apaixonado por tecnologia e inovação
+  <a href="https://portfolio-kaiqui.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/5511933673435" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="mailto:kaiqui.lucaskaiquiluc@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/kaiqui_luucas/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
+
 </div>
 
 ---
 
 ## 🧠 Sobre mim
 
-Desenvolvedor Full-Stack com experiência na criação de soluções de ponta a ponta. Com vivência no desenvolvimento front-end com **Next.js, React.js, TypeScript** e **TailwindCSS**, tenho experiência prática no desenvolvimento de interfaces responsivas, consumo de APIs e otimização de performance.  
+```ts
+const kaiqui = {
+  name:     "Kaiqui Lucas",
+  age:      23,
+  role:     "Full Stack Developer",
+  location: "Brasil 🇧🇷",
+  frontend: ["Next.js", "React.js", "TailwindCSS", "TypeScript", "JavaScript"],
+  backend:  ["Node.js", "Java", "Kotlin", "Go", "C#", "Python"],
+  database: ["MySQL", "PostgreSQL", "phpMyAdmin"],
+  tools:    ["Git", "Docker", "Power BI", "Postman", "Figma", "Scrum", "Kanban"],
+  open_to:  ["Front-end", "Back-end", "Full Stack"],
+  focus:    "Código limpo, escalável e experiências digitais memoráveis",
+};
+```
 
-Possuo também uma base sólida em desenvolvimento **back-end (Node.js, Java, Kotlin, C#, Python)**, **bancos de dados (MySQL, phpMyAdmin)**, metodologias ágeis e ferramentas como **Git/GitHub** e **Power BI**.  
-
-Com perfil analítico e comunicativo, sou comprometido com a entrega de **código limpo e escalável**, sempre buscando a **excelência técnica** e a **melhor experiência para o usuário final**.
+Desenvolvedor Full-Stack com experiência na criação de soluções de ponta a ponta. Atuo com **Next.js, React.js, TypeScript** e **TailwindCSS** no front-end, e tenho base sólida em **Node.js, Java, Kotlin, Go, C# e Python** no back-end. Perfil analítico e comunicativo, comprometido com **excelência técnica** e a **melhor experiência para o usuário final**. Aberto a oportunidades de Front-end, Back-end e Full Stack.
 
 ---
 
@@ -38,44 +64,94 @@ Com perfil analítico e comunicativo, sou comprometido com a entrega de **códig
 
 ### 🧩 Back-End
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,java,kotlin,cs,python" />
+  <img src="https://skillicons.dev/icons?i=nodejs,java,kotlin,go,cs,python" />
 </p>
 
 ### 🗄️ Bancos de Dados
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
 
-### 🧰 Ferramentas e Metodologias
+### 🧰 Ferramentas & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,powerbi" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,figma" />
 </p>
 
 ---
 
-## 💬 Minhas competências
-🔹 Front-End / Mobile: Next.js, React.js, React Native, TypeScript, JavaScript, HTML/CSS3, TailwindCSS.  
-🔹 Back-End: Node.js, Java, Kotlin, C#, Python, APIs REST/GraphQL.  
-🔹 Bancos de Dados: MySQL, phpMyAdmin.  
-🔹 Metodologias e Ferramentas: Scrum, Kanban, Git/GitHub, Docker, Power BI.  
-🔹 Competências: Resolução de Problemas, Otimização de Performance, Boas Práticas de UI/UX, Desenvolvimento de Soluções Escaláveis, Proatividade.  
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kaiquii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Kaiquii&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e"/>
+
+  <br/><br/>
+
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kaiquii&layout=compact&langs_count=12&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&locale=pt-br"/>
+
+  <br/><br/>
+
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kaiquii&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6e6e&area=true&hide_border=true&area_color=1a2a4a"/>
+
+</div>
 
 ---
 
-## 🌐 Contatos
+## 🏆 Troféus GitHub
 
-<p align="left">
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kaiquii&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+</div>
+
+---
+
+<div align="center">
+  <a href="https://portfolio-kaiqui.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Ver todos os projetos no Portfólio →-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff"/>
+  </a>
+</div>
+
+---
+
+## 💬 Competências
+
+| Área | Tecnologias |
+|------|------------|
+| 🖥️ **Front-End / Mobile** | Next.js, React.js, TailwindCSS, TypeScript, JavaScript, HTML5, CSS3 |
+| ⚙️ **Back-End** | Node.js, Java, Kotlin, GO, C#, Python, APIs REST / GraphQL |
+| 🗄️ **Bancos de Dados** | MySQL, PostgreSQL, phpMyAdmin |
+| 🔧 **Ferramentas** | Git, GitHub, Docker, Power BI, Postman, Figma |
+| 📋 **Metodologias** | Scrum, Kanban |
+| 🧠 **Soft Skills** | Resolução de Problemas, Otimização de Performance, Boas Práticas UI/UX, Proatividade |
+
+---
+
+## 🌐 Onde me encontrar
+
+<div align="left">
   <a href="https://www.linkedin.com/in/kaiqui-lucas/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://portfolio-kaiqui-dev.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  <a href="https://portfolio-kaiqui.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://wa.me/5511933673435" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-</p>
+  <a href="mailto:kaiqui.lucaskaiquiluc@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/kaiqui_luucas/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
-⭐ **"Sempre buscando aprender, evoluir e construir experiências digitais incríveis."**
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn"/>
+
+  ⭐ *"Sempre buscando aprender, evoluir e construir experiências digitais incríveis."*
+  
+</div>
