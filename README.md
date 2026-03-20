@@ -2,10 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Kaiqui%20Lucas&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Apaixonado%20por%20tecnologia%20e%20inovação&descAlignY=60&descColor=8b949e&descSize=18"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Full-Stack+%F0%9F%92%BB;Next.js+%7C+React+%7C+TypeScript+%7C+Node.js;Sempre+aprendendo%2C+sempre+evoluindo+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
 <br/>
 
 <p>
