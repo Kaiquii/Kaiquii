@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Full-Stack+%F0%9F%92%BB;Next.js+%7C+React+%7C+TypeScript+%7C+Node.js;Sempre+aprendendo%2C+sempre+evoluindo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Full-Stack+%F0%9F%92%BB;Next.js+%7C+React+%7C+TypeScript+%7C+Node.js+Kotlin+Go;Sempre+aprendendo%2C+sempre+evoluindo+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -39,7 +39,6 @@
 ```ts
 const kaiqui = {
   name:     "Kaiqui Lucas",
-  age:      23,
   role:     "Full Stack Developer",
   location: "Brasil 🇧🇷",
   frontend: ["Next.js", "React.js", "TailwindCSS", "TypeScript", "JavaScript"],
