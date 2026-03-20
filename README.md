@@ -3,10 +3,16 @@
 <!-- Animated header banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Kaiqui%20Lucas&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Apaixonado%20por%20tecnologia%20e%20inovação&descAlignY=60&descColor=8b949e&descSize=18"/>
 
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Full-Stack+%F0%9F%92%BB;Next.js+%7C+React+%7C+TypeScript+%7C+Node.js;Sempre+aprendendo%2C+sempre+evoluindo+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
 <br/>
 
 <!-- Profile views + social badges -->
 <p>
+  <img src="https://komarev.com/ghpvc/?username=Kaiquii&style=for-the-badge&color=58a6ff&labelColor=0d1117" alt="Profile views"/>
   <a href="https://www.linkedin.com/in/kaiqui-lucas/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -33,6 +39,7 @@
 ```ts
 const kaiqui = {
   name:     "Kaiqui Lucas",
+  age:      23,
   role:     "Full Stack Developer",
   location: "Brasil 🇧🇷",
   frontend: ["Next.js", "React.js", "TailwindCSS", "TypeScript", "JavaScript"],
@@ -76,9 +83,16 @@ Desenvolvedor Full-Stack com experiência na criação de soluções de ponta a 
 
 <div align="center">
 
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kaiquii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Kaiquii&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e"/>
+
   <br/><br/>
 
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kaiquii&layout=compact&langs_count=12&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&locale=pt-br"/>
+
+  <br/><br/>
+
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kaiquii&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6e6e&area=true&hide_border=true&area_color=1a2a4a"/>
 
 </div>
 
@@ -91,6 +105,19 @@ Desenvolvedor Full-Stack com experiência na criação de soluções de ponta a 
 </div>
 
 ---
+
+## 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias | Links |
+|---------|-----------|-------------|-------|
+| 🛵 **Site Motoboy - Chama o Boy** | Formulário com envio direto no WhatsApp para serviço de motoboy | `Next.js` `TypeScript` `API Rest` | [Código](https://github.com/Kaiquii/site-motoboy-nextjs.git) · [Demo](https://chama-o-boy.vercel.app) |
+| 🚗 **Consulta Fipe** | Consulta o valor FIPE do seu carro com interface moderna e responsiva | `Next.js` `TypeScript` `API Rest` | [Código](https://github.com/Kaiquii/consulta-fipe.git) · [Demo](https://consulta-fipe.vercel.app) |
+| ⚖️ **Calculadora de IMC** | Interface intuitiva para controle de saúde com design moderno | `Next.js` `TypeScript` `TailwindCSS` | [Código](https://github.com/Kaiquii/imc-next) · [Demo](https://imc-next.vercel.app) |
+| 🐾 **Pet Shop - DEV** | E-commerce completo para petshop com carrinho e checkout | `React.js` `Node.js` `E-commerce` | [Código](https://github.com/Kaiquii/petdev.git) · [Demo](https://petdev-ten.vercel.app) |
+| ☕ **Starbucks® Clone** | Landing page responsiva inspirada no Starbucks® com foco em UI/UX | `HTML5` `CSS3` `JavaScript` | [Código](https://github.com/Kaiquii/site-starbucks) · [Demo](https://cheery-strudel-5e916f.netlify.app) |
+| 🍕 **Pizzaria Delivery** | Site de delivery com cardápio interativo e integração WhatsApp | `HTML5` `CSS3` `WhatsApp API` | [Código](https://github.com/Kaiquii/Projeto-pizzaria) · [Demo](https://proj-pizzaria-b7web.netlify.app/) |
+| 📦 **Cadastro de Produtos** | Sistema CRUD completo para gestão de produtos e estoque | `JavaScript` `CRUD` `Validação` | [Código](https://github.com/Kaiquii/Cadastro-Produto-JS) · [Demo](https://cadastro-produtos.netlify.app/) |
+| 🏥 **Medicenter** | Website institucional para clínica médica com foco em agendamentos | `HTML5` `CSS3` `Responsivo` | [Código](https://github.com/Kaiquii/Templete-medicenter-responsivo) · [Demo](https://templete-medicenter-b7web.netlify.app/) |
 
 <div align="center">
   <a href="https://portfolio-kaiqui.vercel.app/" target="_blank">
@@ -110,6 +137,32 @@ Desenvolvedor Full-Stack com experiência na criação de soluções de ponta a 
 | 🔧 **Ferramentas** | Git, GitHub, Docker, Power BI, Postman, Figma |
 | 📋 **Metodologias** | Scrum, Kanban |
 | 🧠 **Soft Skills** | Resolução de Problemas, Otimização de Performance, Boas Práticas UI/UX, Proatividade |
+
+---
+
+## 🌟 Recomendações Profissionais
+
+> *"Desde o início demonstrou um alto nível de inteligência nos controles sistêmicos, proatividade no planejamento das atividades e dedicação. Implementou diversos KPIs ajudando na análise de produtividade. Profissional extremamente criativo."*
+>
+> **Bruno Jardim** — Especialista de Manufatura | Green Belt · Cie Automotive
+
+---
+
+> *"Profissional com muita disposição pra aprender e que entrega os projetos com excelência e atenção aos detalhes. Não se contenta em fazer o básico — busca entender o porquê das coisas, se aprofunda e tem postura super proativa. Mentalidade colaborativa incrível."*
+>
+> **João Mário Silva Nascimento** — Engenheiro de Software | Go · Kotlin · NodeJs · NextJs · D&O Sistemas
+
+---
+
+> *"Une técnica e sensibilidade de design de uma forma rara. Transforma ideias em interfaces funcionais, leves e com atenção a cada detalhe. Com domínio de React, TypeScript e Tailwind, entrega mais do que código — entrega experiências."*
+>
+> **Leonardo Cali** — Analista de Sistemas | Analista de Infraestrutura · D&O Sistemas
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/kaiqui-lucas/details/recommendations/" target="_blank">
+    <img src="https://img.shields.io/badge/Ver todas no LinkedIn →-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
@@ -139,5 +192,6 @@ Desenvolvedor Full-Stack com experiência na criação de soluções de ponta a 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn"/>
 
   ⭐ *"Sempre buscando aprender, evoluir e construir experiências digitais incríveis."*
-  
+
+  *Feito com ❤️ e muito ☕*
 </div>
