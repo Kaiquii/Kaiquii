@@ -76,16 +76,9 @@ Desenvolvedor Full-Stack com experiência na criação de soluções de ponta a 
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kaiquii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Kaiquii&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e"/>
-
   <br/><br/>
 
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kaiquii&layout=compact&langs_count=12&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&locale=pt-br"/>
-
-  <br/><br/>
-
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kaiquii&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6e6e&area=true&hide_border=true&area_color=1a2a4a"/>
 
 </div>
 
