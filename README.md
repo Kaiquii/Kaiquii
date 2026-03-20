@@ -3,16 +3,10 @@
 <!-- Animated header banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Kaiqui%20Lucas&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Apaixonado%20por%20tecnologia%20e%20inovação&descAlignY=60&descColor=8b949e&descSize=18"/>
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Full-Stack+%F0%9F%92%BB;Next.js+%7C+React+%7C+TypeScript+%7C+Node.js+Kotlin+Go;Sempre+aprendendo%2C+sempre+evoluindo+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
 <br/>
 
 <!-- Profile views + social badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Kaiquii&style=for-the-badge&color=58a6ff&labelColor=0d1117" alt="Profile views"/>
   <a href="https://www.linkedin.com/in/kaiqui-lucas/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
