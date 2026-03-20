@@ -77,19 +77,6 @@ Desenvolvedor Full-Stack com experiência na criação de soluções de ponta a 
 
 ---
 
-## 💬 Competências
-
-| Área | Tecnologias |
-|------|------------|
-| 🖥️ **Front-End / Mobile** | Next.js, React.js, TailwindCSS, TypeScript, JavaScript, HTML5, CSS3 |
-| ⚙️ **Back-End** | Node.js, Java, Kotlin, GO, C#, Python, APIs REST / GraphQL |
-| 🗄️ **Bancos de Dados** | MySQL, PostgreSQL, phpMyAdmin |
-| 🔧 **Ferramentas** | Git, GitHub, Docker, Power BI, Postman, Figma |
-| 📋 **Metodologias** | Scrum, Kanban |
-| 🧠 **Soft Skills** | Resolução de Problemas, Otimização de Performance, Boas Práticas UI/UX, Proatividade |
-
----
-
 ## 🌐 Onde me encontrar
 
 <div align="left">
