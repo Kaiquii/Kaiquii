@@ -71,7 +71,7 @@ Desenvolvedor Full-Stack com experiência na criação de soluções de ponta a 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiquii&layout=compact&langs_count=12&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&locale=pt-br&cache_seconds=1800"/>
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiquii&layout=compact&langs_count=12&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&locale=pt-br&cache_seconds=1800&card_width=600"/>
 </div>
 
 ---
