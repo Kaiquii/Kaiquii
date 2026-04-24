@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=160&section=header&text=Kaiqui%20Lucas&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer&descAlignY=62&descColor=8b949e&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1a2e&height=100&text=Kaiqui%20Lucas&fontSize=36&fontColor=58a6ff&fontAlignY=45&desc=Full-Stack%20Developer&descAlignY=72&descColor=8b949e&descSize=14"/>
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiqui-lucas/)
 [![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-kaiqui.vercel.app/)
