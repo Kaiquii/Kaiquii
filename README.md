@@ -1,101 +1,42 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Kaiqui%20Lucas&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Apaixonado%20por%20tecnologia%20e%20inovação&descAlignY=60&descColor=8b949e&descSize=18"/>
+# Kaiqui Lucas
+**Full-Stack Developer** · Brasil 🇧🇷
 
-<p>
-  <a href="https://www.linkedin.com/in/kaiqui-lucas/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://portfolio-kaiqui.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/5511933673435" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a href="mailto:kaiqui.lucaskaiquiluc@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/kaiqui_luucas/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiqui-lucas/)
+[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-kaiqui.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kaiqui.lucaskaiquiluc@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5511933673435)
 
 </div>
 
 ---
 
-## 🧠 Sobre mim
-
 ```ts
 const kaiqui = {
-  name:     "Kaiqui Lucas",
   role:     "Full Stack Developer",
-  location: "Brasil 🇧🇷",
-  frontend: ["Next.js", "React.js", "TailwindCSS", "TypeScript", "JavaScript"],
+  frontend: ["Next.js", "React.js", "TypeScript", "TailwindCSS"],
   backend:  ["Node.js", "Java", "Kotlin", "Go", "C#", "Python"],
-  database: ["MySQL", "PostgreSQL", "phpMyAdmin"],
-  tools:    ["Git", "Docker", "Power BI", "Postman", "Figma", "Scrum", "Kanban"],
-  open_to:  ["Front-end", "Back-end", "Full Stack"],
+  database: ["PostgreSQL", "MySQL"],
+  tools:    ["Docker", "Git", "Figma", "Postman"],
   focus:    "Código limpo, escalável e experiências digitais memoráveis",
 };
 ```
 
-Desenvolvedor Full-Stack com experiência na criação de soluções de ponta a ponta. Atuo com **Next.js, React.js, TypeScript** e **TailwindCSS** no front-end, e tenho base sólida em **Node.js, Java, Kotlin, Go, C# e Python** no back-end. Perfil analítico e comunicativo, comprometido com **excelência técnica** e a **melhor experiência para o usuário final**. Aberto a oportunidades de Front-end, Back-end e Full Stack.
+---
+
+### Stack
+
+![React](https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,nodejs,java,kotlin,go,cs,python,postgresql,mysql,docker,git,figma)
 
 ---
 
-## ⚙️ Tecnologias e Ferramentas
-
-### 🚀 Front-End
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" />
-</p>
-
-### 🧩 Back-End
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,java,kotlin,go,cs,python" />
-</p>
-
-### 🗄️ Bancos de Dados
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
-
-### 🧰 Ferramentas & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,figma" />
-</p>
-
----
-
-## 📊 GitHub Stats
+### GitHub
 
 <div align="center">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiquii&layout=compact&langs_count=12&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&locale=pt-br&cache_seconds=1800&card_width=600"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiquii&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </div>
 
 ---
 
-## 🌐 Onde me encontrar
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/kaiqui-lucas/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://portfolio-kaiqui.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/5511933673435" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a href="mailto:kaiqui.lucaskaiquiluc@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/kaiqui_luucas/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</div>
-
----
-
-⭐ *"Sempre buscando aprender, evoluir e construir experiências digitais incríveis."*
+*"Sempre buscando aprender, evoluir e construir experiências digitais incríveis."*
