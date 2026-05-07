@@ -56,9 +56,9 @@ Desenvolvedor Full-Stack focado em soluções de ponta a ponta. Perfil analític
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kaiquii&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+  <img height="200" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=Kaiquii&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
   <br/><br/>
-  <img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kaiquii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaiquii&theme=tokyonight"/>
 </div>
 
 ---
