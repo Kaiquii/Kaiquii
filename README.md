@@ -53,14 +53,6 @@ Desenvolvedor Full-Stack focado em soluções de ponta a ponta. Perfil analític
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kaiquii&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kaiquii&theme=tokyonight"/>
-</div>
----
-
 <div align="center">
   <i>"Sempre buscando aprender, evoluir e construir experiências digitais incríveis."</i>
 </div>
