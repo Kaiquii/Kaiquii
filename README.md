@@ -53,6 +53,18 @@ Desenvolvedor Full-Stack focado em soluções de ponta a ponta. Perfil analític
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaiquii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiquii&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
 <div align="center">
   <i>"Sempre buscando aprender, evoluir e construir experiências digitais incríveis."</i>
 </div>
