@@ -56,7 +56,7 @@ Desenvolvedor Full-Stack focado em soluções de ponta a ponta. Perfil analític
 ## 📊 Linguagens mais utilizadas
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kaiquii&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kaiquii&layout=compact&theme=tokyonight&hide_border=true&langs_count=50" />
 </p>
 
 ---
