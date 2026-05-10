@@ -57,7 +57,7 @@ Desenvolvedor Full-Stack focado em soluções de ponta a ponta. Perfil analític
 
 <div align="center">
 
-<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiquii&layout=donut&theme=tokyonight&hide_border=true" />
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiquii&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
