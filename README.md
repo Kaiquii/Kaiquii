@@ -53,19 +53,11 @@ Desenvolvedor Full-Stack focado em soluções de ponta a ponta. Perfil analític
 
 ---
 
-## 📊 GitHub Analytics
-
-## 📊 GitHub Analytics
+## 📊 Linguagens mais utilizadas
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaiquii&theme=tokyonight" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kaiquii&theme=tokyonight" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kaiquii&theme=tokyonight" />
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiquii&layout=donut&theme=tokyonight&hide_border=true" />
 
 </div>
 
