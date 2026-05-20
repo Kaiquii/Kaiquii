@@ -47,7 +47,7 @@ Desenvolvedor Full-Stack focado em soluções de ponta a ponta. Perfil analític
 
 **Ferramentas**
 <br/>
-![Tools](https://skillicons.dev/icons?i=git,docker,figma,postman,vscode)
+![Tools](https://skillicons.dev/icons?i=git,docker,figma,postman)
 
 </div>
 
