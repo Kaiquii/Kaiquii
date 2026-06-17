@@ -3,6 +3,11 @@
 # Kaiqui Lucas
 ### `Full-Stack Developer` · Brasil 🇧🇷
 
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=70A5FD&center=true&vCenter=true&width=700&lines=Construindo+solu%C3%A7%C3%B5es+web+e+mobile;Do+frontend+ao+backend;C%C3%B3digo+limpo%2C+escal%C3%A1vel+e+com+prop%C3%B3sito"
+  alt="Typing SVG com apresentação de Kaiqui Lucas"
+/>
+
 </div>
 
 <div align="center">
@@ -41,11 +46,11 @@ Desenvolvedor Full-Stack focado em soluções de ponta a ponta. Perfil analític
 
 **Frontend**
 <br/>
-![React](https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind)
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind)
 
 **Backend & DB**
 <br/>
-![Node](https://skillicons.dev/icons?i=nodejs,java,kotlin,go,cs,python,postgresql,mysql)
+![Backend](https://skillicons.dev/icons?i=nodejs,java,kotlin,go,cs,python,postgresql,mysql)
 
 **Ferramentas**
 <br/>
@@ -55,14 +60,14 @@ Desenvolvedor Full-Stack focado em soluções de ponta a ponta. Perfil analític
 
 ---
 
-## 📊 Linguagens mais utilizadas
+## 📊 Linguagens em destaque
 
 <div align="center">
 
   <img
-    height="220"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiquii&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&border_radius=12&card_width=420&custom_title=Linguagens%20em%20destaque"
-    alt="Linguagens em destaque no GitHub de Kaiqui Lucas"
+    width="420"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiquii&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&border_radius=12&card_width=420&hide_title=true"
+    alt="Linguagens mais presentes nos repositórios públicos de Kaiqui Lucas"
   />
 
 </div>
