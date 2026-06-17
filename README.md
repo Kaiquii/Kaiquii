@@ -2,8 +2,10 @@
 
 # Kaiqui Lucas
 ### `Full-Stack Developer` · Brasil 🇧🇷
-</br>
+
 </div>
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiqui-lucas/)
 [![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-kaiqui.vercel.app/)
@@ -55,8 +57,20 @@ Desenvolvedor Full-Stack focado em soluções de ponta a ponta. Perfil analític
 
 ## 📊 Linguagens mais utilizadas
 
+<div align="center">
+
+  <img
+    height="220"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiquii&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&border_radius=12&card_width=420&custom_title=Linguagens%20em%20destaque"
+    alt="Linguagens em destaque no GitHub de Kaiqui Lucas"
+  />
+
+</div>
+
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kaiquii&layout=compact&theme=tokyonight&hide_border=true" />
+  <sub>
+    Métricas baseadas nos repositórios públicos do GitHub. Projetos privados, forks e arquivos gerados podem não refletir 100% do uso real no dia a dia.
+  </sub>
 </p>
 
 ---
