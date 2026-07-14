@@ -60,26 +60,6 @@ Desenvolvedor Full-Stack focado em soluções de ponta a ponta. Perfil analític
 
 ---
 
-## 📊 Linguagens em destaque
-
-<div align="center">
-
-  <img
-    width="420"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiquii&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&border_radius=12&card_width=420&hide_title=true"
-    alt="Linguagens mais presentes nos repositórios públicos de Kaiqui Lucas"
-  />
-
-</div>
-
-<p align="center">
-  <sub>
-    Métricas baseadas nos repositórios públicos do GitHub. Projetos privados, forks e arquivos gerados podem não refletir 100% do uso real no dia a dia.
-  </sub>
-</p>
-
----
-
 <div align="center">
   <i>"Sempre buscando aprender, evoluir e construir experiências digitais incríveis."</i>
 </div>
